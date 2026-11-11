@@ -1009,7 +1009,7 @@ private void OnSoundFinished()
 
 ### Автор и разработчик
 
-* Кирилл Шутов (ShutovKS), Россия
+* xAFK-BOTx, Россия
 
 ## Технологии
 
